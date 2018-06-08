@@ -1,6 +1,54 @@
 # Checklists (plain text)
 
-## Gate 1 (lean canvas) checklist-Subquestions and notes.
+Read about our pipeline at https://medium.com/data-ventures/our-pipeline-or-what-we-put-our-ventures-through-71a07416e5a8.
+
+## Gate 0 (opportunities) checklist
+
+__Problem(s)__
+
+The core problem/issue that customers are experiencing, and that we want to try solve.
+
+__What's already in the market (ie existing alternatives)
+
+Products or services already in the market.
+
+__Value proposition__
+
+How what we're building is different from existing offers, and why people would want to use/purchase it.
+
+__Competitive advantage__
+
+OPTIONAL. Our/the product's competitive advantage over existing alternatives.
+
+__Customers, possibly early adopters__
+
+Potential customer groups/segments, including those who might be involved in early development/adoption of the product.
+
+__Revenue streams__
+
+OPTIONAL. How the product earns money / the sources of the product's earnings.
+
+__Channels__
+
+How we'll reach potential / existing customers.
+
+__Solution(s)__
+
+Potential solution(s) to the problem(s), taking into account all of the above factors.
+
+
+### Criteria (_how_ it's considered)
+
+__Team review__
+
+The team will review and give their feedback on the initial lean canvas. How can we break thsi down to a smaller opportunity. Could this be dependant on another venture which could be created as a spin off
+
+__Board: conflict of interest__
+
+The board examines each venture, identifying potential conflicts of interest and (if necessary) vetoing any potentially problematic ventures, or changing a venture's direction.
+
+
+## Gate 1 (lean canvas) checklist
 
 __A completed lean canvas (as much as is possible - living documents so we should expect them to change)__
 
@@ -18,13 +66,13 @@ Questions to ask of each potential end user:
 
 * [Solution] Here's what we think could help solve these problems. What do you think? Is it too complicated, or too simple? What are we missing?
 
-* [Advantage] Is there anyone else out there that offers this, or that you're talking with? 
+* [Advantage] Is there anyone else out there that offers this, or that you're talking with?
 
 * [Revenue streams] What does it currently cost you to solve this problem (if you are)?
 
 * [Key metrics] How do/would you know if your problem is getting better?
 
-* [Channels] Are you part of any industry or professional groups? 
+* [Channels] Are you part of any industry or professional groups?
 
 What would your peers think of this venture?
 
@@ -50,7 +98,7 @@ Single point of contact for the venture.
 
 
 
-## Gate 2 (MVP) checklist
+## Gate 2 (MVP / proof of concept) checklist
 
 __Validated business model__
 
@@ -88,7 +136,7 @@ __- Confirmed at least one partner__
 
 At least one confirmed partner organisation.
 
-__- Resourcing requirements (roles)__
+__- Resourcing requirements (roles and responsibilities)__
 
 From the Stats NZ, DV and partner(s) sides.
 
@@ -114,4 +162,38 @@ A model / forecast of how the venture's finances will work.
 
 __Pitch deck__
 
-The output document for all the above criteria
+The output document for all the above criteria.
+
+
+### Criteria (_how_ it's considered)
+
+__Chosen partner(s)__
+
+Board decides using its own criteria.
+
+__Updated scoring__
+
+Update the scoring done in field 1 to see if it's still of value after proof of the concept.
+
+
+### Scoring
+
+__Value__
+
+The output of the venture, including (but not limited to) revenue, value to NZ, and non-commercial value.
+
+__Risk__
+
+Known risks related to the venture.
+
+__Complexity__
+
+Unknowns related to the venture.
+
+__Effort__
+
+The time and people-based investment needed.
+
+__Acquisition__
+
+What we may need to buy, eg data sources, technology.
