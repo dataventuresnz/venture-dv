@@ -1,4 +1,9 @@
-# venture-dv
-The lean canvas and other documents associated with Data Ventures itself.
+# Data Ventures
 
-Read about the canvas, and find it in plain text, at https://medium.com/data-ventures/the-data-ventures-lean-canvas-8657b92c6124.
+We are the commercial and prototyping arm of Stats NZ with a focus on partnering with private organisations.
+
+Here you will find documents associated with Data Ventures itself.
+
+https://www.dataventures.nz/
+https://medium.com/data-ventures
+https://twitter.com/dataventuresnz
