@@ -1,0 +1,52 @@
+﻿DRAFT  
+How Data Ventures and Stats NZ will work together
+
+
+
+
+Summary
+Data Ventures is a business unit of Stats NZ, but will sometimes operate differently in terms of policies. Both Data Ventures and Stats NZ need to agree to any differences from normal Stats NZ operation.
+
+
+Anyone from Stats NZ who becomes part of the Data Ventures team will be with on it full time. They won’t have any obligations to their previous team/project while they’re involved with Data Ventures.
+
+
+This document’s audience: the Data Ventures team and anyone from Stats NZ who’s looking to understand how the two organisations’ business as usual (BAU) operations differ.
+
+
+Data Ventures and the public
+* Data Ventures will regularly release its venture pipeline to the NZ public.
+* Data Ventures will create a transparent workflow so there are no surprises to Minister or Stats NZ.
+
+
+Data Ventures and IP
+* Data Ventures will control any intellectual property (IP) it creates.
+* IP acquired by Data Ventures will be controlled subject to any agreements made with the organisation(s) Data Ventures acquired it from.
+* In the case of a joint venture with another party, there may be IP that Stats NZ isn’t allowed to use, and Data Ventures can only use within the scope of the joint venture. 
+* Data Ventures will work with Stats NZ to integrate any learnings back to Stats NZ, except for any IP or data which can only be used by the particular venture.
+* Subject to previous comments, every data source acquired/created by Data Ventures is available to Stats NZ for non-commercial use.
+
+
+Data Ventures as a Stats NZ business unit
+* Data Ventures will work the principle of “80% is good enough”. This means we will do enough to show or provide value and build on that, rather than strive to get everything 100% right before we release.
+* Currently Data Ventures is a business unit in Stats NZ. In the future that may change, and may become a separate entity,  or a business unit of another entity.
+* Data Ventures will comply with Stats NZ policies, unless Stats NZ and Data Ventures both agree they don’t apply.
+* While Data Ventures is a business unit of Stats NZ, it is established with separate infrastructure and will access data from Stats NZ as if it was a customer of Stats NZ.
+* Data Ventures may need to keep some details of its day-to-day working relationships in confidence from Stats NZ people, to protect the confidentiality of early commercial negotiations.
+* Stats NZ is funding the first ventures which Data Ventures establishes. The longer term intent is that these ventures will be self-funded or externally funded. 
+
+
+Data Ventures and Stats NZ people
+* Data Ventures will look for opportunities to include and involve Stats NZ people throughout its work pipeline.
+* Data Ventures may engage Stats NZ people from any level within any part of Stats NZ, subject to Stats NZ, Data Ventures and that person agreeing..
+* Data Ventures will be responsible for clearly communicating to Stats NZ people the commitment required if they join the Data Ventures team.
+* Any Stats NZ person involved in Data Ventures will commit 100% of their time and focus. They will not have any obligations to their past team/project during the time they’re involved with Data Ventures. 
+* Any Stats NZ person who is involved in Data Ventures core team:
+   * understands this commitment starts with up to a 3 month secondment trial, with the potential of at least 12 months involvement and 100% commitment of their time to Data Ventures.
+   * will be funded and paid for by Data Ventures.
+* Any Stats NZ person who is involved in Data Ventures as part of a venture:
+   * understands this is a commitment lasting from 2 weeks to 2 years. Potentially, the person may need to be employed by a separate venture entity established or seconded from Data Ventures to that entity.
+   * is transparent with their team around the potential of their commitment.
+   * has resolved prior and constantly manages any conflicts of interest coming from being involved in the venture.
+* If a Stats NZ person is involved in the first two stages of any venture (fields 1 and 2, to the close of gate 2), they will be funded by their Stats NZ project/team as a learning opportunity. 
+* If a venture moves into the build and release phase (the step after proof of concept), and requires Stats NZ people to be involved, then Data Ventures and/or the joint venture will fund those people.
