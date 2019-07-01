@@ -1,0 +1,39 @@
+﻿DRAFT  
+How Data Ventures and its partners will work together
+
+
+
+
+Summary:
+Data Ventures’ core values include openness and transparency. We want our investors - New Zealand’s people - to understand what we’re doing, and why. 
+
+
+Our level of openness will also respect the intellectual property (IP) and confidentiality of the people who work with us on joint ventures. 
+
+
+When a joint venture begins, we’ll make agreements with each partner about the levels of openness and confidentiality we’ll all work to. We’ll also make agreements about how any IP - brought in or created - will be used.
+
+
+At this point, we’ll agree with each partner what happens if they or we want to leave the venture.
+
+
+This document’s audience: the Data Ventures team and potential joint venture partners. This is not a commercial contract, nor any of the terms of a commercial contract. This document explains what working with Data Ventures will look like.
+
+
+Data Ventures’ environment
+* Data Ventures is part of Stats NZ, which is a government department. Because of this, there are policies and processes that Data Ventures must follow that are sometimes different to how the private/NGO/iwi sectors work. 
+* Data Ventures will work meet any government requirements and processes without the need to involve our partners unnecessarily.
+* Taking into account the above point, Data Ventures will work to cut out the red tape for partners it deals with.
+
+
+Starting a joint venture with Data Ventures
+* Data Ventures’ core values include openness and transparency, so that our investors (New Zealand’s people) can understand what our vision, mission and activities are. This level of openness is respectful to the IP and confidentiality any companies or individuals bring into a joint venture. Data Venture will manage the expectations around this.
+* A venture with Data Ventures won't necessarily, at least in the beginning, involve the creation of a separate legal entity.
+* Everyone involved will agree at the start of a joint venture about the ownership and use of any IP created or brought into that venture.
+* Everyone involved will agree at the start of a joint venture what happens if anyone wants to stop being involved.
+
+
+Leaving/ending a joint venture with Data Ventures
+* The current intent is that if Data Ventures decides it doesn’t want to continue, it will give all joint venture partners the opportunity to purchase any IP that has been created up to that point, before providing it to anyone else, eg releasing it publicly.
+* If  a joint venture partner - or Data Ventures and all partners - decide they don’t want to continue, then Data Ventures will package up the IP created and, subject to any terms agreed at the start of the joint venture, will release it as open source IP.
+* If there is any IP related to  a joint venture that can’t be open sourced because it is confidential to a partner/partners, or is IP that everyone involved agreed not to open source, then Data Ventures will release the contact details of the joint venture partner who’s carrying on the joint venture.
